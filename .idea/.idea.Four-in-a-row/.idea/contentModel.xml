@@ -7,6 +7,9 @@
       <e p="Four-in-a-row" t="IncludeRecursive">
         <e p="Board.cs" t="Include" />
         <e p="Constants.cs" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="ArrayExtension.cs" t="Include" />
+        </e>
         <e p="Four-in-a-row.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
